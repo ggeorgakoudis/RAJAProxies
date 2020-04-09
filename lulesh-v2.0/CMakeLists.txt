@@ -13,3 +13,5 @@
 add_subdirectory(baseline)
 
 add_subdirectory(RAJA)
+
+add_subdirectory(apollo)
